@@ -16,6 +16,7 @@ namespace FirebaseStorageNET.Controllers
                 description = "Aprenderemos a subir archivos y otro contenido a Firebase Storage usando la tecnología .NET",
                 speaker = "Christian Sánchez",
                 bio = "Soy Desarrollador de Software y Auth0 Ambassador",
+                codeExample = "https://github.com/christiansc96/firebase-storage-net",
                 communities = new List<object>
                 {
                     new
