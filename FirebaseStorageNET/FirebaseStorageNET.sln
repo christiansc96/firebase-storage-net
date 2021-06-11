@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirebaseStorageNET", "FirebaseStorageNET\FirebaseStorageNET.csproj", "{1BCC9701-58D0-47B3-B287-D244B45BF4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseStorageNET.ImageManager", "FirebaseStorageNET.ImageManager\FirebaseStorageNET.ImageManager.csproj", "{A174BF48-DEF1-495E-A23F-8EA72D07D103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseStorageNET.DTOs", "FirebaseStorageNET.DTOs\FirebaseStorageNET.DTOs.csproj", "{F0FE4364-3429-464F-8141-575094625E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCC9701-58D0-47B3-B287-D244B45BF4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCC9701-58D0-47B3-B287-D244B45BF4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCC9701-58D0-47B3-B287-D244B45BF4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCC9701-58D0-47B3-B287-D244B45BF4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A174BF48-DEF1-495E-A23F-8EA72D07D103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A174BF48-DEF1-495E-A23F-8EA72D07D103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A174BF48-DEF1-495E-A23F-8EA72D07D103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A174BF48-DEF1-495E-A23F-8EA72D07D103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FE4364-3429-464F-8141-575094625E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FE4364-3429-464F-8141-575094625E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FE4364-3429-464F-8141-575094625E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FE4364-3429-464F-8141-575094625E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198C569B-5D3C-420A-A3FB-9B249251076E}
+	EndGlobalSection
+EndGlobal
