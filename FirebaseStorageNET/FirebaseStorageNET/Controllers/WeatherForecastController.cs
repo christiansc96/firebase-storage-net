@@ -13,16 +13,18 @@ namespace FirebaseStorageNET.Controllers
             var data = new
             {
                 title = "Subiendo imágenes a Firebase Storage desde .NET",
-                description = "Aprenderemos a subir archivos y otro contenido a Firebase Storage usando la tecnología .NET",
+                description = "Aprenderemos a implementar Firebase Cloud Storage usando la tecnología .NET",
                 speaker = "Christian Sánchez",
-                bio = "Soy Desarrollador de Software y Auth0 Ambassador",
+                bio = "Software Engineer, Microsoft MVP, Auth0 Ambassador y Postman Supernova",
                 codeExample = "https://github.com/christiansc96/firebase-storage-net",
                 communities = new List<object>
                 {
                     new
                     {
                         DevTeam504 = "Co-Fundador y Organizador",
-                        FlutterHonduras = "Co-Fundador y Co-Organizer"
+                        FlutterHonduras = "Co-Fundador y Co-Organizer",
+                        gdgSanPedroSula = "Lead",
+                        googleDSCUNAHVS = "Lead"
                     }
                 },
                 socialMedia = new
@@ -45,7 +47,7 @@ namespace FirebaseStorageNET.Controllers
                     linkedin = new
                     {
                         user = "Christian Sánchez",
-                        profile = "https://www.linkedin.com/in/christian-david-s%C3%A1nchez-675980177/"
+                        profile = "https://www.linkedin.com/in/christiandavidsanchez"
                     }
                 }
             };
